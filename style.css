@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+}
+
+img{
+    float: right;
+    max-width: 50%;
+    max-height: 50%;
+}
+
+h1{
+    font-family: 'Varela', sans-serif;
+    text-align: left;
+    font-size: 70px;
+    color: #FD4435;
+    margin: 0;
+
+}
+
+h2{
+    font-family: 'Questrial', sans-serif;
+    text-align: left;
+    font-size: 20px;
+    color: grey;
+    font-weight: 100;
+    margin: 10px;
+    line-height: 1.5;
+
+
+}
+
+#container{
+    overflow: hidden;
+    max-width: 1200px;
+    margin: 0 auto;
+
+
+}
+
+#text{
+   float: left;
+    max-width: 450px;
+    padding: 0;
+    align-content: center;
+    padding-left: 90px;
+     padding-top: 330px;
+
+
+
+
+}
